@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theAniket&label=Profile%20views&color=0e75b6&style=flat" alt="aniket" /> </p>
 
 
-- 🔭 I’m currently working on full stack.
+- 🔭 I’m currently working on full stack & android.
 
 - 🌱 I’m currently learning **MERN**
 
